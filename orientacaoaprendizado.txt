@@ -1,0 +1,50 @@
+# **Aprendizado git-github**
+
+![logo](https://alyssonmach.github.io/Minicurso-Git-e-GitHub/img/5.png)
+
+​	Ao Iniciar o aprendizado em git e github você se fará algumas perguntas como: O que seria isso?Qual a diferença entre elas? Será que vou saber realiza o desafio? Uma aula com 5 horas de módulo será que vou conseguir aprender? 
+
+​	Pois bem, posso dizer  que este questionamento sempre irá existir. Mas, lhe digo você já deu o primeiro passo que foi começar. As dificuldades e medos sempre existirão. Mas você é capaz de supera-ló. 
+
+​	Você irá aprender os seguintes assuntos:
+
+* Definição
+
+* SHA1 (Secure Hash Algorithml)
+
+* Objetos internos Git
+
+* Instalação
+
+* Autenticação
+
+* Criar e Clonar repositório
+
+* Principais diferenças entre eles
+
+  ​	Esses serão alguns dos assuntos abordados você perceberá que irá começar entende e quais ferramentas necessárias para prosseguir com seus desenvolvimento.
+
+  ​	Estou deixando aqui algumas referências de pesquisas que fiz para complementar este inicio de aprendizado.
+
+  * [Guia markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
+
+  * [Diferença entre git e github](https://www.driven.com.br/blog/qual-a-diferenca-entre-git-e-github/)
+
+  * [O que é Git e Github?](https://www.youtube.com/watch?v=GDGMf2bnHlE)
+
+  * [Enviando um projeto local](https://www.youtube.com/watch?v=j2exng2k3z4)
+
+    
+
+    Espero ter contribuído como este inicio de aprendizado. Sei que ainda temos muitos desafios para desbravar , mas, siga em frente com determinação e foco.  E lembre-se:
+
+    > "*Educação não transforma o mundo. Educação muda as pessoas. Pessoas transformam o mundo*" - (*Paulo Freire*)
+
+    
+
+    
+
+  
+
+  
+
